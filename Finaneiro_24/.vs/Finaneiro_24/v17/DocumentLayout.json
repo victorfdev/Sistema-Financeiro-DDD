@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|d:\\projetos\\sistema-financeiro\\finaneiro_24\\entities\\enums\\enumtipodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|solutionrelative:entities\\enums\\enumtipodespesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|d:\\projetos\\sistema-financeiro\\finaneiro_24\\entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|d:\\projetos\\sistema-financeiro\\finaneiro_24\\entities\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|solutionrelative:entities\\notificacoes\\notifica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|d:\\projetos\\sistema-financeiro\\finaneiro_24\\entities\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|d:\\projetos\\sistema-financeiro\\finaneiro_24\\entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|d:\\projetos\\sistema-financeiro\\finaneiro_24\\entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|d:\\projetos\\sistema-financeiro\\finaneiro_24\\entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\sistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|d:\\projetos\\sistema-financeiro\\finaneiro_24\\entities\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7789F4B0-E629-4934-B837-EFC654057CC5}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnumTipoDespesa.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Enums\\EnumTipoDespesa.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\EnumTipoDespesa.cs",
+              "ToolTip": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Enums\\EnumTipoDespesa.cs",
+              "RelativeToolTip": "Entities\\Enums\\EnumTipoDespesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:42:44.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Despesa.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\Despesa.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Despesa.cs",
+              "ToolTip": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\Despesa.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Despesa.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:40:31.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Categoria.cs",
+              "ToolTip": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:35:00.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ToolTip": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:30:18.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SistemaFinanceiro.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\SistemaFinanceiro.cs",
+              "ToolTip": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\SistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\SistemaFinanceiro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:26:35.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Base.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\Base.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Base.cs",
+              "ToolTip": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\Base.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:23:54.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Notifica.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Notificacoes\\Notifica.cs",
+              "RelativeDocumentMoniker": "Entities\\Notificacoes\\Notifica.cs",
+              "ToolTip": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Notificacoes\\Notifica.cs",
+              "RelativeToolTip": "Entities\\Notificacoes\\Notifica.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:01:32.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\ApplicationUser.cs",
+              "ToolTip": "D:\\Projetos\\Sistema-Financeiro\\Finaneiro_24\\Entities\\Entidades\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\Entidades\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T13:49:35.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

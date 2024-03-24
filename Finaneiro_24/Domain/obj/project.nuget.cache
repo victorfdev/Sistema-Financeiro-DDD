@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqXpd10TDBT+3sFcUcP0ffbZnXmSJkukc/rDRMmhBIdxhTA2aciiotc0xNgEWdcwsRVgGzAUHmNlKkM3ERgXtg==",
+  "success": true,
+  "projectFilePath": "D:\\projetos\\sistema-financeiro\\Finaneiro_24\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
